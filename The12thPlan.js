@@ -2,37 +2,59 @@ import data from "/events.json" assert { type: "json" };
 
 window.onload = function () {
     var d = new Date();
-    console.log(d.getDay());
     document.getElementById("day").selectedIndex = d.getDay();
     loadCurrent();
 
 }
 function timeConvert(timestart) {
-    var afteryear = timestart%31556926;
-    var month = afteryear//2629743;
-    var aftermonth = afteryear%2629743;  
+    var date = new Date(timestart * 1000)
+    var hours = date.getHours();
+    var minutes = "0" + date.getMinutes();
+    var second = "0" + date.getSeconds();
+    if (hours > 12) {
+        var fintime = hours - 17 + ':' + minutes.substr(-2) + " pm";
+    } else {
+        var fintime = hours - 5 + ':' + minutes.substr(-2) + " am";
+    }
+
+
+    return fintime;
 }
 
 function loadCurrent() {
     var d = new Date();
     var day = d.getDay();
     var full = d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate();
-    var table = `<table border=1 frame=void rules=rows> <tr id="titleBox"><th>Title</th><th>Location</th><th>Time</th></tr><tr><td colspan="3" id="eventDate"><b>Events today</b></td></tr>`;
+    var table = `<table border=1 frame=void rules=rows> <tr id="titleBox"><th>Title</th><th>Location</th><th>Start Time</th></tr><tr><td colspan="3" id="eventDate"><b>Events today</b></td></tr>`;
 
     for (var i in data[full.toString()]) {
-        table += `<tr><td>${data[full.toString()][i].title}</td><td>${data[full.toString()][i].location}</td>`;
+        table += `<tr><td><a href="https://calendar.tamu.edu/${data[full.toString()][i].link}">${data[full.toString()][i].title}</a></td><td><button>${data[full.toString()][i].location}</button></td>`;
         if (data[full.toString()][i].is_all_day) {
             table += `<td>All Day</td>`;
         }
         else {
-            table += `<td>${data[full.toString()][i].timestart}</td>`;
+            table += `<td>${timeConvert(data[full.toString()][i].timestart)}</td>`;
         }
 
     }
+    for (var x = full + 1; x < Object.keys(data).at(-1); x++) {
+        table += `<tr><td colspan="3" id="eventDate"><b>Events on ${x.toString().substring(4, 6)}/${x.toString().substring(6)}/${x.toString().substring(0, 4)}</b></td></tr>`;
+        for (var i in data[x.toString()]) {
+            table += `<tr><td><a href="https://calendar.tamu.edu/${data[x.toString()][i].link}">${data[x.toString()][i].title}</a></td><td><button>${data[x.toString()][i].location}</button></td>`;
+            if (data[x.toString()][i].is_all_day) {
+                table += `<td>All Day</td>`;
+            }
+            else {
+                table += `<td>${timeConvert(data[x.toString()][i].timestart)}</td>`;
+            }
+
+        }
+    }
+
     table += `</table>`
     document.getElementById("events").innerHTML = table;
 }
- 
+
 
 var map = new mapboxgl.Map({
     container: 'map',
