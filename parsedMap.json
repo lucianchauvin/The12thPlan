@@ -1,0 +1,5493 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618032,
+                    -96.344482
+                ]
+            },
+            "properties": {
+                "name": "Neeley Residence Hall",
+                "code": "NEEL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617779,
+                    -96.344154
+                ]
+            },
+            "properties": {
+                "name": "Hobby Residence Hall",
+                "code": "HOBB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617189,
+                    -96.345512
+                ]
+            },
+            "properties": {
+                "name": "Schuhmacher Residence Hall ",
+                "code": "HOBB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616909,
+                    -96.3452
+                ]
+            },
+            "properties": {
+                "name": "Walton Residence Hall ",
+                "code": "HOBB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616604,
+                    -96.346466
+                ]
+            },
+            "properties": {
+                "name": "Hullabaloo Residence Hall ",
+                "code": "HLBL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616232,
+                    -96.342331
+                ]
+            },
+            "properties": {
+                "name": "Legett Residence Hall ",
+                "code": "HLBL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616259,
+                    -96.34388
+                ]
+            },
+            "properties": {
+                "name": "Lechner Residence Hall",
+                "code": "LECH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61603,
+                    -96.344566
+                ]
+            },
+            "properties": {
+                "name": "Haas Residence Hall",
+                "code": "HAAS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615734,
+                    -96.344276
+                ]
+            },
+            "properties": {
+                "name": "McFadden Residence Hall",
+                "code": "MCFA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615675,
+                    -96.345749
+                ]
+            },
+            "properties": {
+                "name": "Moses Residence Hall ",
+                "code": "MCFA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615522,
+                    -96.345154
+                ]
+            },
+            "properties": {
+                "name": "Hughes Residence Hall ",
+                "code": "MCFA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615337,
+                    -96.345581
+                ]
+            },
+            "properties": {
+                "name": "Keathley Residence Hall ",
+                "code": "MCFA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615036,
+                    -96.34536
+                ]
+            },
+            "properties": {
+                "name": "Fowler Residence Hall ",
+                "code": "MCFA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615614,
+                    -96.346466
+                ]
+            },
+            "properties": {
+                "name": "Davis-Gary Residence Hall ",
+                "code": "MCFA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614557,
+                    -96.345497
+                ]
+            },
+            "properties": {
+                "name": "Clements Residence Hall",
+                "code": "CLEM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616104,
+                    -96.335564
+                ]
+            },
+            "properties": {
+                "name": "Krueger Residence Hall ",
+                "code": "KRUE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615566,
+                    -96.335167
+                ]
+            },
+            "properties": {
+                "name": "Mosher Residence Hall ",
+                "code": "MOSH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615358,
+                    -96.335968
+                ]
+            },
+            "properties": {
+                "name": "Southside Commons",
+                "code": "COMM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615137,
+                    -96.336746
+                ]
+            },
+            "properties": {
+                "name": "Dunn Residence Hall ",
+                "code": "DUNN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6147,
+                    -96.336411
+                ]
+            },
+            "properties": {
+                "name": "Aston Residence Hall",
+                "code": "ASTO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615078,
+                    -96.334175
+                ]
+            },
+            "properties": {
+                "name": "Rudder Residence Hall",
+                "code": "RUDD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614874,
+                    -96.334923
+                ]
+            },
+            "properties": {
+                "name": "Wells Residence Hall",
+                "code": "WELL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614492,
+                    -96.334518
+                ]
+            },
+            "properties": {
+                "name": "Eppright Residence Hall",
+                "code": "EPPR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614357,
+                    -96.335411
+                ]
+            },
+            "properties": {
+                "name": "Appelt Residence Hall",
+                "code": "APPE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614283,
+                    -96.335808
+                ]
+            },
+            "properties": {
+                "name": "Underwood Residence Hall",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.628084,
+                    -96.341675
+                ]
+            },
+            "properties": {
+                "name": "The Gardens Building N",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.627785,
+                    -96.341972
+                ]
+            },
+            "properties": {
+                "name": "The Gardens Building M",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.627592,
+                    -96.341484
+                ]
+            },
+            "properties": {
+                "name": "The Gardens Building P",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.627394,
+                    -96.34111
+                ]
+            },
+            "properties": {
+                "name": "The Gardens Building Q",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.627029,
+                    -96.341362
+                ]
+            },
+            "properties": {
+                "name": "Gardens Apartments Community Learning Center",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.627022,
+                    -96.342514
+                ]
+            },
+            "properties": {
+                "name": "The Gardens Building J",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.626783,
+                    -96.340225
+                ]
+            },
+            "properties": {
+                "name": "Gardens Apartments Community Center",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.626795,
+                    -96.342201
+                ]
+            },
+            "properties": {
+                "name": "The Gardens Building K",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.626577,
+                    -96.341934
+                ]
+            },
+            "properties": {
+                "name": "The Gardens Building L",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.626564,
+                    -96.34288
+                ]
+            },
+            "properties": {
+                "name": "The Gardens Building F",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.626198,
+                    -96.342453
+                ]
+            },
+            "properties": {
+                "name": "The Gardens Building G",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.625742,
+                    -96.341881
+                ]
+            },
+            "properties": {
+                "name": " The Gardens Building H",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.608252,
+                    -96.355766
+                ]
+            },
+            "properties": {
+                "name": "White Creek Building B",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607615,
+                    -96.356659
+                ]
+            },
+            "properties": {
+                "name": "White Creek Building A",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607676,
+                    -96.356178
+                ]
+            },
+            "properties": {
+                "name": "White Creek Activity Center Building",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607063,
+                    -96.355972
+                ]
+            },
+            "properties": {
+                "name": "White Creek Building C",
+                "code": "UNDE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607529,
+                    -96.353905
+                ]
+            },
+            "properties": {
+                "name": "White Creek Community Center",
+                "code": "WCCC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613966,
+                    -96.33757
+                ]
+            },
+            "properties": {
+                "name": "Kiest Corps Hall (Dorm 2 ) ",
+                "code": "KIES"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614334,
+                    -96.337051
+                ]
+            },
+            "properties": {
+                "name": "Spence Corps Hall (Dorm 1)",
+                "code": "SPEN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614048,
+                    -96.33683
+                ]
+            },
+            "properties": {
+                "name": "Stephen C. Ash '87 Leadership Learning Center",
+                "code": "SPEN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613644,
+                    -96.337456
+                ]
+            },
+            "properties": {
+                "name": "Susan & Michael J. Plank '83 Leadership Learning Center",
+                "code": "PLNK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614044,
+                    -96.336594
+                ]
+            },
+            "properties": {
+                "name": "Briggs Corps Hall (Dorm 3) ",
+                "code": "BRIG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613503,
+                    -96.337456
+                ]
+            },
+            "properties": {
+                "name": "Fountain Corps Hall (Dorm 4)",
+                "code": "FOUN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613941,
+                    -96.33596
+                ]
+            },
+            "properties": {
+                "name": "Gainer Corps Hall (Dorm 5) ",
+                "code": "GAIN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61298,
+                    -96.337402
+                ]
+            },
+            "properties": {
+                "name": "Lacy Corps Hall (Dorm 6) ",
+                "code": "LACY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61363,
+                    -96.335617
+                ]
+            },
+            "properties": {
+                "name": "H. Grady Ash, Jr. Leadership Learning Center",
+                "code": "LACY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613413,
+                    -96.335976
+                ]
+            },
+            "properties": {
+                "name": "Leonard Corps Hall (Dorm 7) ",
+                "code": "LEON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612839,
+                    -96.336792
+                ]
+            },
+            "properties": {
+                "name": "Harrell Corps Hall (Dorm 8) ",
+                "code": "HARL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612604,
+                    -96.337112
+                ]
+            },
+            "properties": {
+                "name": "Buzbee Leadership Learning Center",
+                "code": "HARL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61294,
+                    -96.33577
+                ]
+            },
+            "properties": {
+                "name": "Whiteley Corps Hall (Dorm 9)",
+                "code": "WHTE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612566,
+                    -96.336304
+                ]
+            },
+            "properties": {
+                "name": "White Corps Hall  (Dorm 10)",
+                "code": "WHIT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612791,
+                    -96.334938
+                ]
+            },
+            "properties": {
+                "name": "Harrington Corps Hall (Dorm 11)",
+                "code": "HARR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611832,
+                    -96.336342
+                ]
+            },
+            "properties": {
+                "name": "Utay Corps Hall (Dorm 12) ",
+                "code": "UTAY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.628357,
+                    -96.342812
+                ]
+            },
+            "properties": {
+                "name": "Becky Gates Children Center",
+                "code": "UTAY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.626175,
+                    -96.341217
+                ]
+            },
+            "properties": {
+                "name": "University Apts Community Maintenance Bldg",
+                "code": "UTAY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.622871,
+                    -96.339531
+                ]
+            },
+            "properties": {
+                "name": "Emerging Technologies Building",
+                "code": "ETB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.62158,
+                    -96.340385
+                ]
+            },
+            "properties": {
+                "name": "Zachry Engineering Education Complex",
+                "code": "ZACH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620914,
+                    -96.338852
+                ]
+            },
+            "properties": {
+                "name": "Wisenbaker Engineering Building",
+                "code": "WEB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.621025,
+                    -96.341873
+                ]
+            },
+            "properties": {
+                "name": "Jack E. Brown Chemical Engineering Building",
+                "code": "CHEN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620346,
+                    -96.341415
+                ]
+            },
+            "properties": {
+                "name": "Luedecke Building (Cyclotron)",
+                "code": "CYCL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620438,
+                    -96.342529
+                ]
+            },
+            "properties": {
+                "name": "Mitchell Physics Building",
+                "code": "MPHY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620113,
+                    -96.342995
+                ]
+            },
+            "properties": {
+                "name": "Mitchell Institute for Fundamental Phys & Astronomy",
+                "code": "MIST"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61977,
+                    -96.342072
+                ]
+            },
+            "properties": {
+                "name": "Blocker Building",
+                "code": "BLOC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620401,
+                    -96.339928
+                ]
+            },
+            "properties": {
+                "name": "Dwight Look Engineering Building",
+                "code": "DLEB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620085,
+                    -96.33963
+                ]
+            },
+            "properties": {
+                "name": "Civil Engineering Lab Building",
+                "code": "CVLB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619822,
+                    -96.338783
+                ]
+            },
+            "properties": {
+                "name": "H.J. (Bill) and Reta Haynes Engineering Building",
+                "code": "HEB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619637,
+                    -96.339378
+                ]
+            },
+            "properties": {
+                "name": "Joe C. Richardson Petroleum Engineering Building",
+                "code": "RICH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619743,
+                    -96.341072
+                ]
+            },
+            "properties": {
+                "name": "James J. Cain '51 Building (ENPH)",
+                "code": "ENPH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61972,
+                    -96.340378
+                ]
+            },
+            "properties": {
+                "name": "Mechanical Engineering Office Building",
+                "code": "MEOB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619314,
+                    -96.339943
+                ]
+            },
+            "properties": {
+                "name": "Doherty Building",
+                "code": "DRTY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61887,
+                    -96.34034
+                ]
+            },
+            "properties": {
+                "name": "Halbouty Geosciences Building",
+                "code": "HALB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618717,
+                    -96.341522
+                ]
+            },
+            "properties": {
+                "name": "Materials Science and Engineering Building (EIC)",
+                "code": "EIC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618368,
+                    -96.341003
+                ]
+            },
+            "properties": {
+                "name": "Reed-McDonald Building",
+                "code": "RDMC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618958,
+                    -96.344177
+                ]
+            },
+            "properties": {
+                "name": "Munnerlyn Astronomy & Space Sciences",
+                "code": "MASS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618307,
+                    -96.344536
+                ]
+            },
+            "properties": {
+                "name": "Hotard Hall",
+                "code": "HOTA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615467,
+                    -96.343773
+                ]
+            },
+            "properties": {
+                "name": "All Faiths Chapel",
+                "code": "CHPL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61488,
+                    -96.344421
+                ]
+            },
+            "properties": {
+                "name": "Henderson Hall",
+                "code": "HEND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614416,
+                    -96.343575
+                ]
+            },
+            "properties": {
+                "name": "Interdisciplinary Life Sciences Building",
+                "code": "ILSB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618891,
+                    -96.336449
+                ]
+            },
+            "properties": {
+                "name": "Jack K. Williams Administration Building",
+                "code": "ADMN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618874,
+                    -96.337593
+                ]
+            },
+            "properties": {
+                "name": "Langford Architecture Center Building A",
+                "code": "ARCA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619392,
+                    -96.337975
+                ]
+            },
+            "properties": {
+                "name": "Langford Architecture Building C",
+                "code": "ARCC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619234,
+                    -96.33828
+                ]
+            },
+            "properties": {
+                "name": "Langford Architecture Building B",
+                "code": "ARCC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619164,
+                    -96.338753
+                ]
+            },
+            "properties": {
+                "name": "Harvey \"Bum\" Bright Building",
+                "code": "HRBB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618629,
+                    -96.338394
+                ]
+            },
+            "properties": {
+                "name": "Scoates Hall",
+                "code": "SCTS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617882,
+                    -96.336601
+                ]
+            },
+            "properties": {
+                "name": "Eller Oceanography & Meteorology Building",
+                "code": "OM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61796,
+                    -96.337952
+                ]
+            },
+            "properties": {
+                "name": "Liberal Arts & Humanities Building",
+                "code": "LAAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617308,
+                    -96.337219
+                ]
+            },
+            "properties": {
+                "name": "AI Engineering Building",
+                "code": "AIEN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617416,
+                    -96.336121
+                ]
+            },
+            "properties": {
+                "name": "Teague Research Center",
+                "code": "TEAG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61701,
+                    -96.336357
+                ]
+            },
+            "properties": {
+                "name": "Computing Services Annex",
+                "code": "CSA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616873,
+                    -96.336838
+                ]
+            },
+            "properties": {
+                "name": "Computing Services Center",
+                "code": "CSC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618483,
+                    -96.339577
+                ]
+            },
+            "properties": {
+                "name": "Chemistry Building",
+                "code": "CHAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617847,
+                    -96.338966
+                ]
+            },
+            "properties": {
+                "name": "Anthropology Building",
+                "code": "ANTH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617418,
+                    -96.338478
+                ]
+            },
+            "properties": {
+                "name": "Melbern G. Glasscock Building",
+                "code": "GLAS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616831,
+                    -96.337997
+                ]
+            },
+            "properties": {
+                "name": "Pavilion",
+                "code": "PAV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616201,
+                    -96.337547
+                ]
+            },
+            "properties": {
+                "name": "Heep Laboratory Building",
+                "code": "HLB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615887,
+                    -96.33699
+                ]
+            },
+            "properties": {
+                "name": "Engineering Activities Building A",
+                "code": "EABA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615557,
+                    -96.33741
+                ]
+            },
+            "properties": {
+                "name": "Engineering Activities Building B",
+                "code": "EABB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615261,
+                    -96.33783
+                ]
+            },
+            "properties": {
+                "name": "Engineering Activities Bldg C",
+                "code": "EABC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615892,
+                    -96.338028
+                ]
+            },
+            "properties": {
+                "name": "Student Computing Center",
+                "code": "SCC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616003,
+                    -96.338646
+                ]
+            },
+            "properties": {
+                "name": "Peterson Building",
+                "code": "PETR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617266,
+                    -96.339844
+                ]
+            },
+            "properties": {
+                "name": "Francis Hall",
+                "code": "FRAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61797,
+                    -96.340233
+                ]
+            },
+            "properties": {
+                "name": "Chemistry Building",
+                "code": "CHEM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617273,
+                    -96.341225
+                ]
+            },
+            "properties": {
+                "name": "Thompson Hall",
+                "code": "THOM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616938,
+                    -96.340431
+                ]
+            },
+            "properties": {
+                "name": "Harrington Education Center",
+                "code": "HECC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61585,
+                    -96.339401
+                ]
+            },
+            "properties": {
+                "name": "Biological Sciences Building East",
+                "code": "BSBE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615616,
+                    -96.339714
+                ]
+            },
+            "properties": {
+                "name": "Biological Sciences Building West",
+                "code": "BSBW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616692,
+                    -96.340897
+                ]
+            },
+            "properties": {
+                "name": "Harrington Education CTR. Classroom Building",
+                "code": "EDCT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61689,
+                    -96.341759
+                ]
+            },
+            "properties": {
+                "name": "Fermier Hall",
+                "code": "FERM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616726,
+                    -96.342247
+                ]
+            },
+            "properties": {
+                "name": "Heaton Hall",
+                "code": "HEAT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616264,
+                    -96.341682
+                ]
+            },
+            "properties": {
+                "name": "Bolton Hall",
+                "code": "BLTN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615767,
+                    -96.340836
+                ]
+            },
+            "properties": {
+                "name": "Academic Building",
+                "code": "ACAD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614981,
+                    -96.340538
+                ]
+            },
+            "properties": {
+                "name": "Nagle Hall",
+                "code": "NGLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614702,
+                    -96.339828
+                ]
+            },
+            "properties": {
+                "name": "Psychology Building",
+                "code": "PSYC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614258,
+                    -96.339516
+                ]
+            },
+            "properties": {
+                "name": "Military Science Building",
+                "code": "MILS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614614,
+                    -96.341766
+                ]
+            },
+            "properties": {
+                "name": "Coke Building",
+                "code": "COKE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612926,
+                    -96.340294
+                ]
+            },
+            "properties": {
+                "name": "Rudder Tower",
+                "code": "RDER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612549,
+                    -96.341057
+                ]
+            },
+            "properties": {
+                "name": "Memorial Student Center",
+                "code": "MSC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612133,
+                    -96.339546
+                ]
+            },
+            "properties": {
+                "name": "Koldus Building",
+                "code": "JJKB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.608524,
+                    -96.336243
+                ]
+            },
+            "properties": {
+                "name": "Williams Alumni Center",
+                "code": "CLAC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615189,
+                    -96.338776
+                ]
+            },
+            "properties": {
+                "name": "Heldenfels Hall",
+                "code": "HELD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614851,
+                    -96.338974
+                ]
+            },
+            "properties": {
+                "name": "Butler Hall",
+                "code": "BTLR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615179,
+                    -96.342293
+                ]
+            },
+            "properties": {
+                "name": "YMCA",
+                "code": "YMCA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611776,
+                    -96.333687
+                ]
+            },
+            "properties": {
+                "name": "John H. Lindsey Building",
+                "code": "LIND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612349,
+                    -96.334679
+                ]
+            },
+            "properties": {
+                "name": "E. V. Adams Band Building",
+                "code": "LIND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612621,
+                    -96.337097
+                ]
+            },
+            "properties": {
+                "name": "Buzbee Leadership Learning Center",
+                "code": "LIND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613592,
+                    -96.335625
+                ]
+            },
+            "properties": {
+                "name": "H. Grady Ash, Jr. '58 Leadership Learning Center",
+                "code": "ASH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.608438,
+                    -96.337601
+                ]
+            },
+            "properties": {
+                "name": "Moore Communications Center",
+                "code": "KAMU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607176,
+                    -96.337532
+                ]
+            },
+            "properties": {
+                "name": "Hagler Center - Texas A&M Foundation",
+                "code": "HGLR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614256,
+                    -96.349083
+                ]
+            },
+            "properties": {
+                "name": "AG Engineering Power & Machinery ",
+                "code": "AEPM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613771,
+                    -96.348457
+                ]
+            },
+            "properties": {
+                "name": "AG Engr Res Lab & Shop",
+                "code": "AEPM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613253,
+                    -96.348167
+                ]
+            },
+            "properties": {
+                "name": "Cater-Mattil Hall",
+                "code": "CMAT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613474,
+                    -96.349197
+                ]
+            },
+            "properties": {
+                "name": "Price Hobgood Ag. Engineering Research Lab",
+                "code": "CMAT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611502,
+                    -96.348076
+                ]
+            },
+            "properties": {
+                "name": "Heep Center",
+                "code": "CMAT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.610659,
+                    -96.347359
+                ]
+            },
+            "properties": {
+                "name": "Kleberg Center",
+                "code": "KLCT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.610807,
+                    -96.349266
+                ]
+            },
+            "properties": {
+                "name": "Biochemistry/Biophysics Building",
+                "code": "BICH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.609852,
+                    -96.348305
+                ]
+            },
+            "properties": {
+                "name": "Rosenthal Meat Science & Technology Center",
+                "code": "BICH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611237,
+                    -96.352051
+                ]
+            },
+            "properties": {
+                "name": "Reynolds Medical Sciences Building",
+                "code": "BICH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.610769,
+                    -96.350792
+                ]
+            },
+            "properties": {
+                "name": "Mays Business School - Wehner Building",
+                "code": "WCBA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.609241,
+                    -96.350273
+                ]
+            },
+            "properties": {
+                "name": "Horticulture / Forest Science Building",
+                "code": "HFSB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.608095,
+                    -96.349487
+                ]
+            },
+            "properties": {
+                "name": "Borlaug Center for Southern Crop Improvement",
+                "code": "HFSB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61018,
+                    -96.349869
+                ]
+            },
+            "properties": {
+                "name": "Nuclear Magnetic Resonance Facility",
+                "code": "NMR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607344,
+                    -96.349968
+                ]
+            },
+            "properties": {
+                "name": "Southern Crop Improvement Greenhouse",
+                "code": "NMR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607149,
+                    -96.351677
+                ]
+            },
+            "properties": {
+                "name": "The Gardens | Leach Teaching Gardens",
+                "code": "NMR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.606556,
+                    -96.350677
+                ]
+            },
+            "properties": {
+                "name": "Wildlife, Fisheries and Ecological Sciences Building",
+                "code": "WFES"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.606188,
+                    -96.351189
+                ]
+            },
+            "properties": {
+                "name": "AgriLife Services Building",
+                "code": "WFES"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.610167,
+                    -96.334351
+                ]
+            },
+            "properties": {
+                "name": "Music Activities Center",
+                "code": "MAC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607187,
+                    -96.354706
+                ]
+            },
+            "properties": {
+                "name": "0062",
+                "code": "62"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.606798,
+                    -96.354668
+                ]
+            },
+            "properties": {
+                "name": "0066",
+                "code": "66"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.606947,
+                    -96.35495
+                ]
+            },
+            "properties": {
+                "name": "0065",
+                "code": "65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.606647,
+                    -96.354881
+                ]
+            },
+            "properties": {
+                "name": "0067",
+                "code": "67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.606291,
+                    -96.355247
+                ]
+            },
+            "properties": {
+                "name": "0070",
+                "code": "67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.606352,
+                    -96.355598
+                ]
+            },
+            "properties": {
+                "name": "0071",
+                "code": "71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.606054,
+                    -96.3554
+                ]
+            },
+            "properties": {
+                "name": "0072",
+                "code": "72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.606604,
+                    -96.357635
+                ]
+            },
+            "properties": {
+                "name": "Donald L. Houston Building",
+                "code": "72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.605721,
+                    -96.356461
+                ]
+            },
+            "properties": {
+                "name": "Electron Beam Food Research Facility",
+                "code": "72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.605635,
+                    -96.3591
+                ]
+            },
+            "properties": {
+                "name": "1111 Research Parkway Bldg",
+                "code": "ONRP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.604809,
+                    -96.358002
+                ]
+            },
+            "properties": {
+                "name": "Testing and Characterization Facility",
+                "code": "ONRP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.604824,
+                    -96.355507
+                ]
+            },
+            "properties": {
+                "name": "Health Technologies Building",
+                "code": "HTB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.603687,
+                    -96.35611
+                ]
+            },
+            "properties": {
+                "name": "Enterprise Electrical Distribution Center",
+                "code": "HTB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.603342,
+                    -96.354416
+                ]
+            },
+            "properties": {
+                "name": "International Ocean Discovery Building",
+                "code": "HTB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.60264,
+                    -96.355728
+                ]
+            },
+            "properties": {
+                "name": "Offshore Technology Research Center",
+                "code": "HTB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.602167,
+                    -96.353752
+                ]
+            },
+            "properties": {
+                "name": "Liberal Arts & Social Sciences Building",
+                "code": "HTB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.601553,
+                    -96.353348
+                ]
+            },
+            "properties": {
+                "name": "Gilchrist Building (T.T.I.)",
+                "code": "HTB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.602036,
+                    -96.351204
+                ]
+            },
+            "properties": {
+                "name": "Physical Education Boot Camp and Archery Annex",
+                "code": "HTB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.602411,
+                    -96.358994
+                ]
+            },
+            "properties": {
+                "name": "Centeq Building",
+                "code": "HTB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.602091,
+                    -96.357079
+                ]
+            },
+            "properties": {
+                "name": "Giesecke Engineering Research Building",
+                "code": "HTB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.600468,
+                    -96.359032
+                ]
+            },
+            "properties": {
+                "name": "2 Research Park",
+                "code": "HTB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.597719,
+                    -96.35231
+                ]
+            },
+            "properties": {
+                "name": "Allen Building (Academic West)",
+                "code": "ALLN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.597343,
+                    -96.353653
+                ]
+            },
+            "properties": {
+                "name": "Annenberg Presidential Conference Center",
+                "code": "BPCC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.602501,
+                    -96.350334
+                ]
+            },
+            "properties": {
+                "name": "Omar Smith Instructional Tennis Center",
+                "code": "BPCC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.604462,
+                    -96.349388
+                ]
+            },
+            "properties": {
+                "name": "Physical Education Activity Program Building",
+                "code": "PEAP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.605621,
+                    -96.350929
+                ]
+            },
+            "properties": {
+                "name": "Agriculture & Life Sciences Building",
+                "code": "AGLS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.604313,
+                    -96.351097
+                ]
+            },
+            "properties": {
+                "name": "Human Clinical Research Building",
+                "code": "AGLS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616888,
+                    -96.342926
+                ]
+            },
+            "properties": {
+                "name": "Milner Hall",
+                "code": "MILN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.622269,
+                    -96.357399
+                ]
+            },
+            "properties": {
+                "name": "General Services Complex",
+                "code": "GSC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615183,
+                    -96.352989
+                ]
+            },
+            "properties": {
+                "name": "Laboratory Animal Care Building",
+                "code": "LARR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614464,
+                    -96.352425
+                ]
+            },
+            "properties": {
+                "name": "TVMC-Small Animal Research Building",
+                "code": "VIV2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614372,
+                    -96.352982
+                ]
+            },
+            "properties": {
+                "name": "Vivarium III",
+                "code": "VIV3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614122,
+                    -96.353188
+                ]
+            },
+            "properties": {
+                "name": "Veterinary Medical Diagnostic Laboratory",
+                "code": "VMDL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614071,
+                    -96.354454
+                ]
+            },
+            "properties": {
+                "name": "Variety Testing and Sorghum Breeding",
+                "code": "VMDL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613642,
+                    -96.354164
+                ]
+            },
+            "properties": {
+                "name": "Veterinary Anatomic Pathology",
+                "code": "VMDL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613451,
+                    -96.35199
+                ]
+            },
+            "properties": {
+                "name": "Veterinary Medical Sciences Building",
+                "code": "VMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613033,
+                    -96.352547
+                ]
+            },
+            "properties": {
+                "name": "Veterinary Medicine Administration",
+                "code": "VMA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613234,
+                    -96.353539
+                ]
+            },
+            "properties": {
+                "name": "Veterinary Teaching Hospital",
+                "code": "VTH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612543,
+                    -96.355019
+                ]
+            },
+            "properties": {
+                "name": "Veterinary Large Animal Hospital",
+                "code": "VTH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612329,
+                    -96.353584
+                ]
+            },
+            "properties": {
+                "name": "Veterinary Small Animal Hospital",
+                "code": "VSAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611641,
+                    -96.354698
+                ]
+            },
+            "properties": {
+                "name": "Vet Med Research Bldg Addition",
+                "code": "VSAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611174,
+                    -96.354858
+                ]
+            },
+            "properties": {
+                "name": "Veterinary Research Building",
+                "code": "VSAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612507,
+                    -96.357422
+                ]
+            },
+            "properties": {
+                "name": "Veterinary Medicine Building 3",
+                "code": "VICI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611992,
+                    -96.358032
+                ]
+            },
+            "properties": {
+                "name": "Veterinary Medicine Building 2",
+                "code": "VIDI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611797,
+                    -96.35701
+                ]
+            },
+            "properties": {
+                "name": "Veterinary Medicine Building 1",
+                "code": "VENI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.610052,
+                    -96.353882
+                ]
+            },
+            "properties": {
+                "name": "School of Public Health - Classroom Building",
+                "code": "VENI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.609949,
+                    -96.354469
+                ]
+            },
+            "properties": {
+                "name": "School of Public Health - Lab Building",
+                "code": "VENI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.609476,
+                    -96.35437
+                ]
+            },
+            "properties": {
+                "name": "School of Public Health - Admin Building",
+                "code": "SPHADM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.610579,
+                    -96.357216
+                ]
+            },
+            "properties": {
+                "name": "Texas A&M Institute for Genomic Medicine",
+                "code": "TIGM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.609247,
+                    -96.357521
+                ]
+            },
+            "properties": {
+                "name": "Texas A&M Institute for Preclinical Studies",
+                "code": "TIPS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607807,
+                    -96.361725
+                ]
+            },
+            "properties": {
+                "name": "National Center for Therapeutics Manufacturing",
+                "code": "NCTM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612103,
+                    -96.335541
+                ]
+            },
+            "properties": {
+                "name": "Duncan Dining Hall",
+                "code": "DCAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616493,
+                    -96.338409
+                ]
+            },
+            "properties": {
+                "name": "Evans Library Annex",
+                "code": "ANNEX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616882,
+                    -96.339401
+                ]
+            },
+            "properties": {
+                "name": "Evans Library",
+                "code": "LIBR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616423,
+                    -96.339928
+                ]
+            },
+            "properties": {
+                "name": "Cushing Memorial Library & Archives",
+                "code": "CUSH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611605,
+                    -96.35022
+                ]
+            },
+            "properties": {
+                "name": "Business Library and Collaboration Commons ",
+                "code": "WCLF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612066,
+                    -96.351654
+                ]
+            },
+            "properties": {
+                "name": "Medical Sciences Library",
+                "code": "MEDL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.597418,
+                    -96.353333
+                ]
+            },
+            "properties": {
+                "name": "Policy Sciences & Economics Library",
+                "code": "PSEL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616774,
+                    -96.334015
+                ]
+            },
+            "properties": {
+                "name": "The Campus Course",
+                "code": "PSEL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611023,
+                    -96.341232
+                ]
+            },
+            "properties": {
+                "name": "The Zone Club",
+                "code": "PSEL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.610445,
+                    -96.34053
+                ]
+            },
+            "properties": {
+                "name": "Kyle Field",
+                "code": "KYLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.609587,
+                    -96.341225
+                ]
+            },
+            "properties": {
+                "name": "Ford Hall of Champions",
+                "code": "KYLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.608608,
+                    -96.338562
+                ]
+            },
+            "properties": {
+                "name": "Davis Football Player Development Center",
+                "code": "DPDC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.608795,
+                    -96.339249
+                ]
+            },
+            "properties": {
+                "name": "Bright Football Complex",
+                "code": "BFC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.608997,
+                    -96.339005
+                ]
+            },
+            "properties": {
+                "name": "Nye Academic Center",
+                "code": "BFC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607906,
+                    -96.34037
+                ]
+            },
+            "properties": {
+                "name": "Gilliam Indoor Track Stadium",
+                "code": "ITRK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607361,
+                    -96.339836
+                ]
+            },
+            "properties": {
+                "name": "McFerrin Athletic Center",
+                "code": "IFBL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.60725,
+                    -96.343491
+                ]
+            },
+            "properties": {
+                "name": "Rec Center Natatorium",
+                "code": "IFBL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.607147,
+                    -96.342682
+                ]
+            },
+            "properties": {
+                "name": "Student Recreation Center",
+                "code": "SREC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.601513,
+                    -96.349731
+                ]
+            },
+            "properties": {
+                "name": "Mt. Aggie",
+                "code": "SREC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.602018,
+                    -96.346802
+                ]
+            },
+            "properties": {
+                "name": "Penberthy Intramural Sports Center",
+                "code": "PISC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.602938,
+                    -96.348824
+                ]
+            },
+            "properties": {
+                "name": "George P. Mitchell '40 Outdoor Tennis Center",
+                "code": "MOTC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.605949,
+                    -96.346298
+                ]
+            },
+            "properties": {
+                "name": "Reed Arena",
+                "code": "REED"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.605316,
+                    -96.341446
+                ]
+            },
+            "properties": {
+                "name": "Olsen Field at Bluebell Park",
+                "code": "OLSN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.603123,
+                    -96.342995
+                ]
+            },
+            "properties": {
+                "name": "Anderson Track & Field Complex",
+                "code": "OLSN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.602161,
+                    -96.344391
+                ]
+            },
+            "properties": {
+                "name": "E.B. Cushing Track Stadium",
+                "code": "EBCS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.604034,
+                    -96.344337
+                ]
+            },
+            "properties": {
+                "name": "Ellis Field",
+                "code": "EBCS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.604061,
+                    -96.34272
+                ]
+            },
+            "properties": {
+                "name": "Johnson Track & Field Building",
+                "code": "EBCS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.603922,
+                    -96.343582
+                ]
+            },
+            "properties": {
+                "name": "West Campus Office Pavilion",
+                "code": "EBCS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.602587,
+                    -96.34597
+                ]
+            },
+            "properties": {
+                "name": "Davis Diamond",
+                "code": "DDSS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.603819,
+                    -96.345428
+                ]
+            },
+            "properties": {
+                "name": "Player Development Center-West Campus",
+                "code": "DDSS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61335,
+                    -96.339943
+                ]
+            },
+            "properties": {
+                "name": "Rudder Auditorium & Theatre Complex",
+                "code": "RDER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612026,
+                    -96.337494
+                ]
+            },
+            "properties": {
+                "name": "Sanders Corps Center & Museum",
+                "code": "SCCT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.596655,
+                    -96.353012
+                ]
+            },
+            "properties": {
+                "name": "George Bush Presidential Library & Museum",
+                "code": "BPLM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.622725,
+                    -96.359802
+                ]
+            },
+            "properties": {
+                "name": "Soil Testing Lab",
+                "code": "STL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.621958,
+                    -96.359932
+                ]
+            },
+            "properties": {
+                "name": "Rollins Urban and Structural Entomology Facility",
+                "code": "ENTO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.621735,
+                    -96.358467
+                ]
+            },
+            "properties": {
+                "name": "Perennial Grass Breeding and Genetics",
+                "code": "PGBG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620855,
+                    -96.358391
+                ]
+            },
+            "properties": {
+                "name": "Schubot Exotic Bird Health Center",
+                "code": "165"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.621176,
+                    -96.357918
+                ]
+            },
+            "properties": {
+                "name": "Weed Science Field Lab",
+                "code": "1052"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620878,
+                    -96.35759
+                ]
+            },
+            "properties": {
+                "name": "USDA Greenhouse 1",
+                "code": "1045"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620296,
+                    -96.357094
+                ]
+            },
+            "properties": {
+                "name": "Virus-Vector Research Lab",
+                "code": "1047"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620005,
+                    -96.356911
+                ]
+            },
+            "properties": {
+                "name": "Farm Service Office",
+                "code": "1000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619955,
+                    -96.357765
+                ]
+            },
+            "properties": {
+                "name": "Farm Service Implement #2",
+                "code": "1002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619558,
+                    -96.357391
+                ]
+            },
+            "properties": {
+                "name": "Farm Service Implement #1",
+                "code": "1001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619675,
+                    -96.357712
+                ]
+            },
+            "properties": {
+                "name": "Farm Service Shop",
+                "code": "1003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619181,
+                    -96.357903
+                ]
+            },
+            "properties": {
+                "name": "Turfgrass Field Lab",
+                "code": "TURF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620264,
+                    -96.359726
+                ]
+            },
+            "properties": {
+                "name": "Wildlife & Exotic Animal Center",
+                "code": "1193"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620096,
+                    -96.36055
+                ]
+            },
+            "properties": {
+                "name": "TVMC-Wildlife & Exotic Animals",
+                "code": "4542"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620466,
+                    -96.355278
+                ]
+            },
+            "properties": {
+                "name": "Physical Plant Administration & Shops",
+                "code": "PLNT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619747,
+                    -96.353897
+                ]
+            },
+            "properties": {
+                "name": "Division of Technology Services ",
+                "code": "WCDC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618011,
+                    -96.351852
+                ]
+            },
+            "properties": {
+                "name": "Murray Case Sells Storage Bldg",
+                "code": "0980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61887,
+                    -96.35466
+                ]
+            },
+            "properties": {
+                "name": "Phys Plant-Grounds Maintenance",
+                "code": "PPGM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618399,
+                    -96.354111
+                ]
+            },
+            "properties": {
+                "name": "Transit Services",
+                "code": "PPGM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61783,
+                    -96.353455
+                ]
+            },
+            "properties": {
+                "name": "Fleet Services",
+                "code": "PPGM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617226,
+                    -96.352615
+                ]
+            },
+            "properties": {
+                "name": "Purchasing & Stores",
+                "code": "PRCH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615976,
+                    -96.352272
+                ]
+            },
+            "properties": {
+                "name": "Forest Science Laboratory Building",
+                "code": "FSLB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615799,
+                    -96.351089
+                ]
+            },
+            "properties": {
+                "name": "Utilities & Energy Services Business Office ",
+                "code": "FSLB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615513,
+                    -96.351494
+                ]
+            },
+            "properties": {
+                "name": "CUSE-Shop & Storage",
+                "code": "FSLB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615574,
+                    -96.351303
+                ]
+            },
+            "properties": {
+                "name": "Mosquito Research Lab",
+                "code": "FSLB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615442,
+                    -96.351692
+                ]
+            },
+            "properties": {
+                "name": "CUSE-Special Project Lab & Storage",
+                "code": "FSLB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615337,
+                    -96.351791
+                ]
+            },
+            "properties": {
+                "name": "CUSE-Research Labs",
+                "code": "FSLB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615353,
+                    -96.351402
+                ]
+            },
+            "properties": {
+                "name": "CUSE-Shop & Storage",
+                "code": "FSLB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615211,
+                    -96.351128
+                ]
+            },
+            "properties": {
+                "name": "Butler Building",
+                "code": "FSLB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615137,
+                    -96.351601
+                ]
+            },
+            "properties": {
+                "name": "Center for Urban and Structural Entomology (CUSE)",
+                "code": "CUSE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614935,
+                    -96.351463
+                ]
+            },
+            "properties": {
+                "name": "CUSE-Chemistry",
+                "code": "INSC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614962,
+                    -96.350418
+                ]
+            },
+            "properties": {
+                "name": "Biological Control Facility",
+                "code": "INSC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614576,
+                    -96.35112
+                ]
+            },
+            "properties": {
+                "name": "Entomology Research Lab",
+                "code": "INSC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616877,
+                    -96.354218
+                ]
+            },
+            "properties": {
+                "name": "Beasley Laboratory",
+                "code": "BEAS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616951,
+                    -96.354614
+                ]
+            },
+            "properties": {
+                "name": "Plant Science Greenhouse",
+                "code": "959"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616852,
+                    -96.354523
+                ]
+            },
+            "properties": {
+                "name": "SCS Forage Greenhouse",
+                "code": "SCSFGH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616755,
+                    -96.354439
+                ]
+            },
+            "properties": {
+                "name": "Cotton Greenhouse",
+                "code": "961"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616665,
+                    -96.35434
+                ]
+            },
+            "properties": {
+                "name": "Plant Science Grain Sorghum Greenhouse",
+                "code": "962"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616583,
+                    -96.354271
+                ]
+            },
+            "properties": {
+                "name": "Hort & Plant Science Greenhouse",
+                "code": "963"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616518,
+                    -96.354187
+                ]
+            },
+            "properties": {
+                "name": "Agronomy Greenhouse",
+                "code": "964"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616385,
+                    -96.353966
+                ]
+            },
+            "properties": {
+                "name": "Soil/Crop Cotton Genetic Greenhouse",
+                "code": "955"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616226,
+                    -96.354111
+                ]
+            },
+            "properties": {
+                "name": "Forage and Turf Greenhouse",
+                "code": "1054"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61614,
+                    -96.354202
+                ]
+            },
+            "properties": {
+                "name": "Soil & Crop Sci Greenhouse",
+                "code": "1056"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616014,
+                    -96.354446
+                ]
+            },
+            "properties": {
+                "name": "Soil & Crop Sci Greenhouse",
+                "code": "1058"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61607,
+                    -96.354317
+                ]
+            },
+            "properties": {
+                "name": "Soil & Crop Sci Greenhouse",
+                "code": "1057"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615929,
+                    -96.354515
+                ]
+            },
+            "properties": {
+                "name": "Soil & Crop Sci Greenhouse",
+                "code": "1059"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615826,
+                    -96.35424
+                ]
+            },
+            "properties": {
+                "name": "Greenhouse-Small Grains",
+                "code": "1060"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615749,
+                    -96.354004
+                ]
+            },
+            "properties": {
+                "name": "Agronomy Implement Storage",
+                "code": "1029"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616005,
+                    -96.353455
+                ]
+            },
+            "properties": {
+                "name": "Agronomy Field Lab",
+                "code": "AGRL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615631,
+                    -96.354149
+                ]
+            },
+            "properties": {
+                "name": "Greenhouse-Cotton Taxonomy",
+                "code": "1063"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615824,
+                    -96.354904
+                ]
+            },
+            "properties": {
+                "name": "SCSC-Weed Sci Greenhouse",
+                "code": "1079"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615589,
+                    -96.354691
+                ]
+            },
+            "properties": {
+                "name": "SCSC Small Grain Greenhouse",
+                "code": "1077"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6157,
+                    -96.35482
+                ]
+            },
+            "properties": {
+                "name": "Soil & Crop Peanut Greenhouse",
+                "code": "1078"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615376,
+                    -96.354324
+                ]
+            },
+            "properties": {
+                "name": "Greenhouse",
+                "code": "1064"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615236,
+                    -96.354851
+                ]
+            },
+            "properties": {
+                "name": "Agronomy Field Crop Laboratory",
+                "code": "1067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614035,
+                    -96.355377
+                ]
+            },
+            "properties": {
+                "name": "Dry Feed Storage Facility",
+                "code": "1067"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613241,
+                    -96.356354
+                ]
+            },
+            "properties": {
+                "name": "Theriogenology Facility, Equine Reproduction",
+                "code": "VMTF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612701,
+                    -96.356842
+                ]
+            },
+            "properties": {
+                "name": "Equine Athletic Riding Arena",
+                "code": "EAA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614416,
+                    -96.356071
+                ]
+            },
+            "properties": {
+                "name": "TVMC-Surgery Building",
+                "code": "VMSB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61611,
+                    -96.357895
+                ]
+            },
+            "properties": {
+                "name": "Cardiovascular Pathology Laboratory",
+                "code": "CPAT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615534,
+                    -96.358566
+                ]
+            },
+            "properties": {
+                "name": "TVMC-Barn No 3",
+                "code": "VMB3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615225,
+                    -96.358467
+                ]
+            },
+            "properties": {
+                "name": "VMP Shop",
+                "code": "0991"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615072,
+                    -96.358162
+                ]
+            },
+            "properties": {
+                "name": "Cardiovascular Pathology Lab Annex",
+                "code": "PHRL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614714,
+                    -96.358078
+                ]
+            },
+            "properties": {
+                "name": "TVMC-Caged Animals",
+                "code": "VMCA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614779,
+                    -96.358986
+                ]
+            },
+            "properties": {
+                "name": "Tick Research Facility",
+                "code": "TICK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61924,
+                    -96.365051
+                ]
+            },
+            "properties": {
+                "name": "Scotts Turf Lab 1 (Admin Bldg)",
+                "code": "1805"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619473,
+                    -96.365509
+                ]
+            },
+            "properties": {
+                "name": "Scotts Turf Lab 2 (Shop Bldg)",
+                "code": "1806"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614721,
+                    -96.379829
+                ]
+            },
+            "properties": {
+                "name": "ChallengeWorks",
+                "code": "1806"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615335,
+                    -96.376205
+                ]
+            },
+            "properties": {
+                "name": "Freeman Arena",
+                "code": "FREE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614229,
+                    -96.376686
+                ]
+            },
+            "properties": {
+                "name": "Equine Center Stable",
+                "code": "EQCT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616016,
+                    -96.36972
+                ]
+            },
+            "properties": {
+                "name": "Equine Initiative Building",
+                "code": "EQOB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615091,
+                    -96.369331
+                ]
+            },
+            "properties": {
+                "name": "Equine Initiative Education Bldg",
+                "code": "EQEB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614618,
+                    -96.370033
+                ]
+            },
+            "properties": {
+                "name": "Hunt Seat Arena",
+                "code": "0176"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.605822,
+                    -96.368988
+                ]
+            },
+            "properties": {
+                "name": "400 Harvey Mitchell Pw (Valley Park Center)",
+                "code": "0176"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.605225,
+                    -96.368065
+                ]
+            },
+            "properties": {
+                "name": "402 Harvey Mitchell (Valley Park II)",
+                "code": "0176"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.598955,
+                    -96.395897
+                ]
+            },
+            "properties": {
+                "name": "CLINICAL BUILDING 1 (HSC 002000)",
+                "code": "HSC3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.598797,
+                    -96.393913
+                ]
+            },
+            "properties": {
+                "name": "HEALTH PROFESSIONS EDUCATION BUILDING (HSC 001000)",
+                "code": "HSC1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.598097,
+                    -96.394135
+                ]
+            },
+            "properties": {
+                "name": "MEDICAL RESEARCH EDUCATION BUILDING (HSC 001001)",
+                "code": "HSC2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.597708,
+                    -96.393509
+                ]
+            },
+            "properties": {
+                "name": "HSC Central Utility Plant",
+                "code": "HSC4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.59584,
+                    -96.390999
+                ]
+            },
+            "properties": {
+                "name": "Health Science Central Utility Plant",
+                "code": "HSCUP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.639498,
+                    -96.349541
+                ]
+            },
+            "properties": {
+                "name": "3400 S Texas (Family Health Center)",
+                "code": "2913"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.636467,
+                    -96.343636
+                ]
+            },
+            "properties": {
+                "name": "3833 Texas Ave (Metro Center)",
+                "code": "MTRO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.650423,
+                    -96.335167
+                ]
+            },
+            "properties": {
+                "name": "Executive Office Plaza, Bryan Tx",
+                "code": "MTRO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.646425,
+                    -96.296303
+                ]
+            },
+            "properties": {
+                "name": "University Services Building",
+                "code": "MTRO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.637131,
+                    -96.327141
+                ]
+            },
+            "properties": {
+                "name": "State HQTRS Thermal Plant",
+                "code": "3201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.63678,
+                    -96.327728
+                ]
+            },
+            "properties": {
+                "name": "Moore-Connally Building",
+                "code": "MCB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.63228,
+                    -96.326256
+                ]
+            },
+            "properties": {
+                "name": "Transportation Svcs-Village Center Building F",
+                "code": "2952"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.632032,
+                    -96.326553
+                ]
+            },
+            "properties": {
+                "name": "Transportation Services - Village Center",
+                "code": "2917"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.629004,
+                    -96.32235
+                ]
+            },
+            "properties": {
+                "name": "The Dr. David E. Schob Park and Nature Preserve",
+                "code": "2917"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617304,
+                    -96.29921
+                ]
+            },
+            "properties": {
+                "name": "Eastmark Building",
+                "code": "2901"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617924,
+                    -96.321747
+                ]
+            },
+            "properties": {
+                "name": "Business Management Services Building",
+                "code": "BMSB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.599558,
+                    -96.34359
+                ]
+            },
+            "properties": {
+                "name": "Pearce Animal Pavilion",
+                "code": "PRPV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.629904,
+                    -96.342079
+                ]
+            },
+            "properties": {
+                "name": "Horticulture Classroom",
+                "code": "PRPV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.630009,
+                    -96.342979
+                ]
+            },
+            "properties": {
+                "name": "Nursery Floral Field Laboratory",
+                "code": "PRPV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.590599,
+                    -96.357941
+                ]
+            },
+            "properties": {
+                "name": "Nicks Low Speed Wind Tunnel",
+                "code": "WIND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.591013,
+                    -96.358009
+                ]
+            },
+            "properties": {
+                "name": "Klebanoff-Saric Wind Tunnel (Unsteady Wind Tunnel)",
+                "code": "KSWT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.590607,
+                    -96.355644
+                ]
+            },
+            "properties": {
+                "name": "Turbomachinery Laboratory",
+                "code": "1299"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.588818,
+                    -96.353477
+                ]
+            },
+            "properties": {
+                "name": "Utilities & Energy Services Energy Office",
+                "code": "UEOA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.587915,
+                    -96.349876
+                ]
+            },
+            "properties": {
+                "name": "Poultry Science Headquarters",
+                "code": "UEOA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.587473,
+                    -96.349945
+                ]
+            },
+            "properties": {
+                "name": "Poultry Science Handling & Judging",
+                "code": "POSC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.587433,
+                    -96.350487
+                ]
+            },
+            "properties": {
+                "name": "Poultry Science Nutrition & Phys",
+                "code": "PSNP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.580227,
+                    -96.363853
+                ]
+            },
+            "properties": {
+                "name": "Nuclear Science Center",
+                "code": "PSNP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.579494,
+                    -96.363159
+                ]
+            },
+            "properties": {
+                "name": "Range Science Field Lab",
+                "code": "1183"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.573677,
+                    -96.365135
+                ]
+            },
+            "properties": {
+                "name": "Ecology & Natural Resources Teaching Pavilion",
+                "code": "1075"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.572767,
+                    -96.36705
+                ]
+            },
+            "properties": {
+                "name": "Physics Teaching Observatory",
+                "code": "OBSV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618935,
+                    -96.356598
+                ]
+            },
+            "properties": {
+                "name": "TVMDL Building",
+                "code": "1809"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617807,
+                    -96.35743
+                ]
+            },
+            "properties": {
+                "name": "Biocontainment Research Facility (BRF)",
+                "code": "BRF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617443,
+                    -96.355545
+                ]
+            },
+            "properties": {
+                "name": "Office of the State Chemist Building",
+                "code": "1810"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.619577,
+                    -96.371696
+                ]
+            },
+            "properties": {
+                "name": "Watts Cross Country Course",
+                "code": "1810"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611124,
+                    -96.343117
+                ]
+            },
+            "properties": {
+                "name": "Doug Pitcock '49 Texas A&M Hotel & Conference Center",
+                "code": "PHCC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615749,
+                    -96.342735
+                ]
+            },
+            "properties": {
+                "name": "Beutel Health Center",
+                "code": "PHCC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617229,
+                    -96.34375
+                ]
+            },
+            "properties": {
+                "name": "Sbisa Dining Hall",
+                "code": "SBSA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614359,
+                    -96.340637
+                ]
+            },
+            "properties": {
+                "name": "Hart Residence Hall",
+                "code": "SBSA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614313,
+                    -96.341362
+                ]
+            },
+            "properties": {
+                "name": "Student Services Building",
+                "code": "SBSA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.609455,
+                    -96.349045
+                ]
+            },
+            "properties": {
+                "name": "Plant Pathology & Microbiology Building",
+                "code": "SBSA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.622618,
+                    -96.33519
+                ]
+            },
+            "properties": {
+                "name": "Bonfire Memorial",
+                "code": "Bonfire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.618214,
+                    -96.337181
+                ]
+            },
+            "properties": {
+                "name": "East Quad",
+                "code": "Bonfire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615396,
+                    -96.34137
+                ]
+            },
+            "properties": {
+                "name": "Academic Plaza",
+                "code": "Bonfire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61356,
+                    -96.342842
+                ]
+            },
+            "properties": {
+                "name": "Simpson Drill Field",
+                "code": "Bonfire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.610806,
+                    -96.338249
+                ]
+            },
+            "properties": {
+                "name": "Aggie Park",
+                "code": "Bonfire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.610189,
+                    -96.342545
+                ]
+            },
+            "properties": {
+                "name": "Freedom Park",
+                "code": "Bonfire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614458,
+                    -96.349419
+                ]
+            },
+            "properties": {
+                "name": "Eli Whiteley Medal Of Honor Park",
+                "code": "Bonfire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.60265,
+                    -96.360352
+                ]
+            },
+            "properties": {
+                "name": "Research Park",
+                "code": "Bonfire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.596891,
+                    -96.351799
+                ]
+            },
+            "properties": {
+                "name": "George Bush Library Pond Area",
+                "code": "Bonfire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61278,
+                    -96.338165
+                ]
+            },
+            "properties": {
+                "name": "Spence Park",
+                "code": "Bonfire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611881,
+                    -96.340134
+                ]
+            },
+            "properties": {
+                "name": "12th Man Statue",
+                "code": "Bonfire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.608812,
+                    -96.336288
+                ]
+            },
+            "properties": {
+                "name": "Aggie Ring Statue",
+                "code": "RingStatue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612522,
+                    -96.339371
+                ]
+            },
+            "properties": {
+                "name": "Aggieland Prospective Student Center",
+                "code": "RingStatue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613392,
+                    -96.344666
+                ]
+            },
+            "properties": {
+                "name": "Albritton Bell Tower",
+                "code": "RingStatue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612892,
+                    -96.340462
+                ]
+            },
+            "properties": {
+                "name": "Appelt Aggieland Visitor Center",
+                "code": "VisitorCenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.615889,
+                    -96.341339
+                ]
+            },
+            "properties": {
+                "name": "Century Tree",
+                "code": "VisitorCenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616632,
+                    -96.343468
+                ]
+            },
+            "properties": {
+                "name": "Fish Pond",
+                "code": "VisitorCenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.617695,
+                    -96.340706
+                ]
+            },
+            "properties": {
+                "name": "H2O Fountain",
+                "code": "VisitorCenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.612694,
+                    -96.340134
+                ]
+            },
+            "properties": {
+                "name": "Howdy Bed",
+                "code": "HowdyBed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.61112,
+                    -96.341537
+                ]
+            },
+            "properties": {
+                "name": "Reveille Burial Site",
+                "code": "HowdyBed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614506,
+                    -96.337715
+                ]
+            },
+            "properties": {
+                "name": "The Quad / Corps Arches",
+                "code": "HowdyBed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.610607,
+                    -96.33918
+                ]
+            },
+            "properties": {
+                "name": "War Hymn Monument",
+                "code": "HowdyBed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.600204,
+                    -96.347168
+                ]
+            },
+            "properties": {
+                "name": "Penberthy Rec Sports Complex",
+                "code": "HowdyBed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.60936,
+                    -96.362183
+                ]
+            },
+            "properties": {
+                "name": "Multi-Species Facility",
+                "code": "MSRB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620422,
+                    -96.339294
+                ]
+            },
+            "properties": {
+                "name": "Engineering Quad (E-quad)",
+                "code": "MSRB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613285,
+                    -96.34063
+                ]
+            },
+            "properties": {
+                "name": "Rudder Fountain / Plaza",
+                "code": "MSRB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.605469,
+                    -96.345688
+                ]
+            },
+            "properties": {
+                "name": "Cox-McFerrin Center",
+                "code": "CMCB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.625105,
+                    -96.335968
+                ]
+            },
+            "properties": {
+                "name": "Rugby Field",
+                "code": "CMCB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.625553,
+                    -96.334969
+                ]
+            },
+            "properties": {
+                "name": "Cricket Pitch",
+                "code": "CMCB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.620539,
+                    -96.3573
+                ]
+            },
+            "properties": {
+                "name": "USDA Greenhouse 2",
+                "code": "1049"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.624472,
+                    -96.366104
+                ]
+            },
+            "properties": {
+                "name": "Equine Nutrition and Reproduction",
+                "code": "184"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611696,
+                    -96.340683
+                ]
+            },
+            "properties": {
+                "name": "Kyle Field Zone Plaza",
+                "code": "184"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.614937,
+                    -96.342033
+                ]
+            },
+            "properties": {
+                "name": "Spirit Plaza",
+                "code": "Spirit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.748512,
+                    -97.3255
+                ]
+            },
+            "properties": {
+                "name": "Texas A&M School of Law",
+                "code": "Spirit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.610661,
+                    -96.334862
+                ]
+            },
+            "properties": {
+                "name": "Dunlap Drill Field",
+                "code": "Spirit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.624428,
+                    -96.365738
+                ]
+            },
+            "properties": {
+                "name": "Lot 129",
+                "code": "Spirit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.611937,
+                    -96.344315
+                ]
+            },
+            "properties": {
+                "name": "Innovative Learning Classroom Building",
+                "code": "LICB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.623581,
+                    -96.338089
+                ]
+            },
+            "properties": {
+                "name": "Polo Rd. Garage",
+                "code": "LICB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.623213,
+                    -96.338585
+                ]
+            },
+            "properties": {
+                "name": "Polo Rd. Building",
+                "code": "LICB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616104,
+                    -96.335564
+                ]
+            },
+            "properties": {
+                "name": "Aston Hall",
+                "code": "KRUE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.616104,
+                    -96.335564
+                ]
+            },
+            "properties": {
+                "name": "Aston Hall",
+                "code": "KRUE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.613405,
+                    -96.337601
+                ]
+            },
+            "properties": {
+                "name": "Spence Corps Hall (Dorm 1)",
+                "code": "FOUN"
+            }
+        }
+    ]
+}
