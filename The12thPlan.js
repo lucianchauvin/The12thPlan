@@ -1,27 +1,38 @@
-import data from "/bigData.json" assert { type: "json" };
+import data from "/events.json" assert { type: "json" };
 
-
-function bldCur(feature, buld) {
+window.onload = function () {
     var d = new Date();
-    var day = d.getDay();
-    var time = d.getHours() * 100 + d.getMinutes();
-
-    var str = "";
-    str += `<h3>${feature.properties.name} - ${feature.properties.code}</h3>`;
-    str += `<table><tr><th>Room</th><th>Subj/Num-Sec</th><th>Name</th><th>Teacher</th></tr>`;
-    for (var i in data) {
-        for (var j = 0; j < data[i].length; j++) {
-            if (data[i][j]['building'] == buld && data[i][j]['days'][day] && data[i][j]['beginTime'] <= time && data[i][j]['endTime'] >= time) {
-                console.log("found");
-                str += `<tr><td>${data[i][j]['room']}</td><td>${data[i][j]["subject"]}${data[i][j]['courseNum']}-${data[i][j]['section']}</td><td>${data[i][j]['courseTitle']}</td><td>${data[i][j]["teacher"]}</td></tr>`;
-            }
-        }
-    }
-    str += `</table>`;
-    return str;
+    console.log(d.getDay());
+    document.getElementById("day").selectedIndex = d.getDay();
+    loadCurrent();
 
 }
+function timeConvert(timestart) {
+    var afteryear = timestart%31556926;
+    var month = afteryear//2629743;
+    var aftermonth = afteryear%2629743;  
+}
 
+function loadCurrent() {
+    var d = new Date();
+    var day = d.getDay();
+    var full = d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate();
+    var table = `<table border=1 frame=void rules=rows> <tr id="titleBox"><th>Title</th><th>Location</th><th>Time</th></tr><tr><td colspan="3" id="eventDate"><b>Events today</b></td></tr>`;
+
+    for (var i in data[full.toString()]) {
+        table += `<tr><td>${data[full.toString()][i].title}</td><td>${data[full.toString()][i].location}</td>`;
+        if (data[full.toString()][i].is_all_day) {
+            table += `<td>All Day</td>`;
+        }
+        else {
+            table += `<td>${data[full.toString()][i].timestart}</td>`;
+        }
+
+    }
+    table += `</table>`
+    document.getElementById("events").innerHTML = table;
+}
+ 
 
 var map = new mapboxgl.Map({
     container: 'map',
@@ -65,14 +76,13 @@ map.on('click', (event) => {
     const feature = features[0];
     console.log(feature.properties);
 
-    const div = bldCur(feature, feature.properties.code);
-
     const popup = new mapboxgl.Popup({ offset: 15 })
         .setLngLat(feature.geometry.coordinates)
         .setHTML(
-            div
+            `<h3>${feature.properties.name}</h3>`
         )
         .setMaxWidth('5000')
         .addTo(map);
 
 });
+
