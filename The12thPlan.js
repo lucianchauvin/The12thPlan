@@ -1,5 +1,5 @@
-import data from "http://lucianchauvin.com/The12thPlan/index.html/events.json" assert { type: "json" };
-import mapData from "http://lucianchauvin.com/The12thPlan/index.html/parsedMap.json" assert { type: "json" };
+import data from "http://lucianchauvin.github.io/The12thPlan/events.json" assert { type: "json" };
+import mapData from "http://lucianchauvin.github.io/The12thPlan/parsedMap.json" assert { type: "json" };
 
 window.onresize = function () { location.reload(); }
 
