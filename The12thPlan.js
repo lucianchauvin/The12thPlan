@@ -1,4 +1,27 @@
 import data from "/events.json" assert { type: "json" };
+window.onresize = function(){ location.reload(); }
+
+//Responsive Scaling
+let outer = document.getElementById('outer'),
+wrapper = document.getElementById('wrap'),
+maxWidth  = outer.clientWidth,
+maxHeight = outer.clientHeight;
+
+window.addEventListener("resize", resize);
+resize();
+
+function resize(){
+let scale,
+width = window.innerWidth,
+height = window.innerHeight,
+isMax = width >= maxWidth && height >= maxHeight;
+
+scale = Math.min(width/maxWidth, height/maxHeight);
+outer.style.transform = isMax?'':'scale(' + scale + ')';
+wrapper.style.width = isMax?'':maxWidth * scale;
+wrapper.style.height = isMax?'':maxHeight * scale;
+}
+
 
 window.onload = function () {
     var d = new Date();
@@ -111,5 +134,7 @@ map.on('click', (event) => {
         )
         .setMaxWidth('5000')
         .addTo(map);
+
+
 
 });
