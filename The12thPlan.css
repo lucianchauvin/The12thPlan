@@ -20,7 +20,8 @@
 }
 
 table {
-  border: 1px solid black;
+  text-align: center;
+  border: 3px solid maroon;
 }
 
 th,
@@ -45,7 +46,7 @@ td {
 
 #dropdown {
   position: absolute;
-  top: 20px;
+  top: 3%;
   left: 0%;
   width: 100%;
   height: auto;

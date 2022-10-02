@@ -27,19 +27,9 @@ function resize() {
 
 window.onload = function () {
     var d = new Date();
-    document.getElementById("day").selectedIndex = d.getDay();
+    document.getElementById("day").selectedIndex = (d.getDay());    
     loadCurrent();
     document.getElementById("Calendar View").onclick = function () { CALENDERPOPUP(); };
-
-    for (var i in data) {
-        for (var j in data[i]) {
-            console.log(data[i][j].id);
-            const location = data[i][j].location;
-            document.getElementById(data[i][j].id).addEventListener("click", () => {
-                fly(location);
-            });
-        }
-    }
 
 
 }
@@ -65,7 +55,6 @@ function CALENDERPOPUP() {
 
 function fly(bul) {
     console.log(bul);
-    var center2;
     for (var i in mapData['features']) {
         if (mapData['features'][i].properties.name == bul) {
 
@@ -73,7 +62,14 @@ function fly(bul) {
             var log = mapData['features'][i].geometry.coordinates[1];
         }
     }
-    console.log(lat, log);
+    if (lat == undefined || log == undefined) {
+        var result = getCoordinates(bul);
+        console.log(result);
+        lat = result.lat;
+        log = result.log;
+        
+    }
+
     map.flyTo({
         center: [log, lat],
         essential: true // this animation is considered essential with respect to prefers-reduced-motion
@@ -87,6 +83,7 @@ function loadCurrent() {
     var full = d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate();
     var table = `<table border=1 frame=void rules=rows> <tr id="titleBox"><th>Title</th><th>Location</th><th>Start Time</th></tr><tr><td colspan="3" id="eventDate"><b>Events today</b></td></tr>`;
     for (var i in data[full.toString()]) {
+    
         table += `<tr><td><a href="https://calendar.tamu.edu/${data[full.toString()][i].link}">${data[full.toString()][i].title}</a></td><td><button id="${data[full.toString()][i].id}">${data[full.toString()][i].location}</button></td>`;
         if (data[full.toString()][i].is_all_day) {
             table += `<td>All Day</td>`;
@@ -94,6 +91,7 @@ function loadCurrent() {
         else {
             table += `<td>${timeConvert(data[full.toString()][i].timestart)}</td>`;
         }
+        table += `</tr>`;
 
     }
     // for (var x = full + 1; x <= Object.keys(data).at(-1); x++) {
@@ -112,6 +110,7 @@ function loadCurrent() {
 
     table += `</table>`
     document.getElementById("events").innerHTML = table;
+    connectEvents();
 }
 
 
@@ -168,3 +167,48 @@ map.on('click', (event) => {
 
 
 });
+
+function connectEvents() {
+    // for (var i in data) {
+    //     for (var j in data[i]) {
+    //         console.log(data[i][j].id, data[i][j]);
+    //         const location = data[i][j].location;
+    //         const id = data[i][j].id;
+    //         console.log(document.getElementById(id));
+    //         //     .addEventListener("click", () => {
+    //         //     fly(location);
+    //         // });
+    //         console.log("Added event listener to " + id);
+            
+    //     }
+    // }
+    var d = new Date();
+    var day = d.getDay();
+    var full = d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate();
+    for (var j in data[full.toString()]) {
+        console.log(data[full.toString()][j].id, data[full.toString()][j]);
+        const location = data[full.toString()][j].location;
+        const id = data[full.toString()][j].id;
+        console.log(document.getElementById(id));
+        document.getElementById(id).addEventListener("click", () => {
+            fly(location);
+        });
+        console.log("Added event listener to " + id);
+
+    }
+    
+}
+
+function getCoordinates(address) {
+    address = address.replaceAll(" ", "+");
+    var coordinates = [];
+    fetch("https://maps.googleapis.com/maps/api/geocode/json?address=" + address + '&key=' + "AIzaSyAjT5Smj1-WcSyFUn8f7UUPiqGeZvVPbYc")
+        .then(response => response.json())
+        .then(data2 => {
+            var lat = data2['results'][0]['geometry']['location']['lat'];
+            var log = data2['results'][0]['geometry']['location']['lng'];
+            console.log(lat, log);
+        })
+    
+    
+}
