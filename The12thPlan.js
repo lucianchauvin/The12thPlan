@@ -313,3 +313,5 @@ function dropdownscroll() {
     // var value = document.getElementById("Day").selectedOptions[0].value;
     document.getElementById("").scrollIntoView();
 }
+
+console.log("1.0")
