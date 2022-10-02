@@ -1,27 +1,28 @@
 <!DOCTYPE html>
 <html>
-  <div id="wrap" style = "margin:0">
-    <div id="outer">
+<div id="wrap" style="margin:0">
+  <div id="outer">
 
     <head>
       <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
       <script src="https://cdn.maptiler.com/mapbox-gl-js/v1.13.2/mapbox-gl.js"></script>
-      <script type="module" src="The12thPlan.js" type="text/javascript"></script>
+      <script type="module" src="/The12thPlan.js" type="text/javascript"></script>
       <link href="https://cdn.maptiler.com/mapbox-gl-js/v1.13.2/mapbox-gl.css" rel="stylesheet" />
-      <link rel="stylesheet" href="The12thPlan.css">
+      <link rel="stylesheet" href="/The12thPlan.css">
     </head>
 
     <body>
       <div id="navbar"></div>
       <div id="title">
-        <img src="icon.png" width='450px' height='-100px' />
+        <img src="/icon.png" width='450px' height='-100px' />
 
       </div>
       <div id="dropdown">
         <link rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <button type="button" id="Calendar View" class="btn btn-1" style="font-size:30px;position:absolute;left:-600px;top:0px">Calendar
-          View  <i class="fa fa-calendar"></i></button>
+        <button type="button" id="Calendar View" class="btn btn-1"
+          style="font-size:30px;position:absolute;left:-600px;top:0px">Calendar
+          View <i class="fa fa-calendar"></i></button>
         <label for="day-of-week" style="position:absolute;left:-40px;padding-right:15px;top:5px;font-size:25px">Choose a
           day:</label>
         <select name="Day" id="day" style="position:absolute;font-size:25px;left:140px;top:5px">

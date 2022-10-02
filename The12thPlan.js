@@ -1,5 +1,5 @@
-import data from "/events.json" assert { type: "json" };
-import mapData from "/parsedMap.json" assert { type: "json" };
+import data from "http://lucianchauvin.com/The12thPlan/index.html/events.json" assert { type: "json" };
+import mapData from "http://lucianchauvin.com/The12thPlan/index.html/parsedMap.json" assert { type: "json" };
 
 window.onresize = function () { location.reload(); }
 
@@ -101,7 +101,7 @@ function timeConvert(timestart) {
 
 function CALENDERPOPUP() {
     window.open(
-        "calendar.html", 'popUpWindow', 'height=500,width=1200,left=10,top=10,resizable=no,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
+        "calendar.html", 'popUpWindow', 'height=500,width=900,left=10,top=10,resizable=no,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
 }
 
 async function fly(bul) {
