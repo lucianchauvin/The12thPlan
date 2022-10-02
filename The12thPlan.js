@@ -1,10 +1,23 @@
 import data from "/events.json" assert { type: "json" };
+import mapData from "/parsedMap.json" assert { type: "json" };
+
 
 window.onload = function () {
     var d = new Date();
     document.getElementById("day").selectedIndex = d.getDay();
     loadCurrent();
     document.getElementById("Calendar View").onclick = function () { CALENDERPOPUP(); };
+
+    for (var i in data) {
+        for (var j in data[i]) {
+            console.log(data[i][j].id);
+            const location = data[i][j].location;
+            document.getElementById(data[i][j].id).addEventListener("click", () => {
+                fly(location);
+            });
+        }
+    }
+
 
 }
 function timeConvert(timestart) {
@@ -27,14 +40,31 @@ function CALENDERPOPUP() {
         "calendar.html", 'popUpWindow', 'height=500,width=1200,left=10,top=10,resizable=no,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
 }
 
+function fly(bul) {
+    console.log(bul);
+    var center2;
+    for (var i in mapData['features']) {
+        if (mapData['features'][i].properties.name == bul) {
+
+            var lat = mapData['features'][i].geometry.coordinates[0];
+            var log = mapData['features'][i].geometry.coordinates[1];
+        }
+    }
+    console.log(center2);
+    map.flyTo({
+        center: [log, lat],
+        essential: true // this animation is considered essential with respect to prefers-reduced-motion
+    });
+
+}
+
 function loadCurrent() {
     var d = new Date();
     var day = d.getDay();
     var full = d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate();
     var table = `<table border=1 frame=void rules=rows> <tr id="titleBox"><th>Title</th><th>Location</th><th>Start Time</th></tr><tr><td colspan="3" id="eventDate"><b>Events today</b></td></tr>`;
-
     for (var i in data[full.toString()]) {
-        table += `<tr><td><a href="https://calendar.tamu.edu/${data[full.toString()][i].link}">${data[full.toString()][i].title}</a></td><td><button>${data[full.toString()][i].location}</button></td>`;
+        table += `<tr><td><a href="https://calendar.tamu.edu/${data[full.toString()][i].link}">${data[full.toString()][i].title}</a></td><td><button id="${data[full.toString()][i].id}">${data[full.toString()][i].location}</button></td>`;
         if (data[full.toString()][i].is_all_day) {
             table += `<td>All Day</td>`;
         }
@@ -43,19 +73,19 @@ function loadCurrent() {
         }
 
     }
-    for (var x = full + 1; x < Object.keys(data).at(-1); x++) {
-        table += `<tr><td colspan="3" id="eventDate"><b>Events on ${x.toString().substring(4, 6)}/${x.toString().substring(6)}/${x.toString().substring(0, 4)}</b></td></tr>`;
-        for (var i in data[x.toString()]) {
-            table += `<tr><td><a href="https://calendar.tamu.edu/${data[x.toString()][i].link}">${data[x.toString()][i].title}</a></td><td><button>${data[x.toString()][i].location}</button></td>`;
-            if (data[x.toString()][i].is_all_day) {
-                table += `<td>All Day</td>`;
-            }
-            else {
-                table += `<td>${timeConvert(data[x.toString()][i].timestart)}</td>`;
-            }
+    // for (var x = full + 1; x <= Object.keys(data).at(-1); x++) {
+    //     table += `<tr><td colspan="3" id="eventDate"><b>Events on ${x.toString().substring(4, 6)}/${x.toString().substring(6)}/${x.toString().substring(0, 4)}</b></td></tr>`;
+    //     for (var i in data[x.toString()]) {
+    //         table += `<tr><td><a href="https://calendar.tamu.edu/${data[x.toString()][i].link}">${data[x.toString()][i].title}</a></td><td><button id="${data[x.toString()][i].id}">${data[x.toString()][i].location}</button></td>`;
+    //         if (data[x.toString()][i].is_all_day) {
+    //             table += `<td>All Day</td>`;
+    //         }
+    //         else {
+    //             table += `<td>${timeConvert(data[x.toString()][i].timestart)}</td>`;
+    //         }
 
-        }
-    }
+    //     }
+    // }
 
     table += `</table>`
     document.getElementById("events").innerHTML = table;
