@@ -23,7 +23,7 @@ for i in data['events'].keys():
             "id": j['id'],
             "timestart": j['ts_start'] - j['tz_offset'],
             "is_all_day": isAllDay,
-            "link": j['href'],
+            "link": "https://calendar.tamu.edu/" + j['href'],
             "title": j['title'],
             "location": location,
             "description": description,
