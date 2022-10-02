@@ -4,6 +4,7 @@ window.onload = function () {
     var d = new Date();
     document.getElementById("day").selectedIndex = d.getDay();
     loadCurrent();
+    document.getElementById("Calendar View").onclick = function () { CALENDERPOPUP(); };
 
 }
 function timeConvert(timestart) {
@@ -19,6 +20,11 @@ function timeConvert(timestart) {
 
 
     return fintime;
+}
+
+function CALENDERPOPUP() {
+    window.open(
+        "calendar.html", 'popUpWindow', 'height=500,width=1200,left=10,top=10,resizable=no,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
 }
 
 function loadCurrent() {
@@ -107,4 +113,3 @@ map.on('click', (event) => {
         .addTo(map);
 
 });
-
