@@ -1,4 +1,6 @@
 import data from "/events.json" assert { type: "json" };
+import mapData from "/parsedMap.json" assert { type: "json" };
+
 window.onresize = function () { location.reload(); }
 
 //Responsive Scaling
@@ -71,7 +73,7 @@ function fly(bul) {
             var log = mapData['features'][i].geometry.coordinates[1];
         }
     }
-    console.log(center2);
+    console.log(lat, log);
     map.flyTo({
         center: [log, lat],
         essential: true // this animation is considered essential with respect to prefers-reduced-motion
